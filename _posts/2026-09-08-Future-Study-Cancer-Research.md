@@ -11,5 +11,5 @@ The current and most prevanlent treatment of leukemia and its subtypes is chemot
 immunotherapy, targeted therapy, bone marrow transplant, engineered immune cells, and even clinical trials.
 The average life expectancy of an indvidual with Leukemia is about a 68.6% five year survival rate. 
 <img width="855" height="918" alt="IMG_7321" src="https://github.com/user-attachments/assets/a32ced34-64e4-406a-80ba-ffcd69cae082" />
-
-Sources: Mayo Clinic and National Cancer Institute
+Link to picture: nhcancerclinics.com/cancer-types/leukemia-cancer/
+Sources for Text: Mayo Clinic and National Cancer Institute
