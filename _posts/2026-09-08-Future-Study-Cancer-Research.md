@@ -10,3 +10,4 @@ several subtypes of leukemia.T
 The current and most prevanlent treatment of leukemia and its subtypes is chemotherapy.However, there are many other treatment plans such as radiation therapy, 
 immunotherapy, targeted therapy, bone marrow transplant, engineered immune cells, and even clinical trials.
 The average life expectancy of an indvidual with Leukemia is about a 68.6% five year survival rate. 
+Sources: Mayo Clinic and National Cancer Institute
