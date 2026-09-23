@@ -9,3 +9,4 @@ the revenue to be $170 million dollars.
 23&Me currently is in a shift to run as a nonprofit. As for the future, 23&Me plans to focus on research to expand a genetic database. This massive database 
 is used for scientific studies to build upon for research such as obesity and cannabis.
 At their core, 23&Me will still sell DNA kits to consumers for ancestry.
+## https://historyofinformation.com/image.php?id=332 
